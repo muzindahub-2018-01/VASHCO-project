@@ -1,0 +1,119 @@
+
+	  /************************************
+					GENERAL
+	  ************************************/
+		body {
+			background-color: orange;
+		}
+		
+		p {
+			font-style: italic;
+			text-align: center;
+			color: white;
+			margin-left: 100px;
+			margin-right: 100px;
+			
+		}
+		
+		div {
+
+		}
+	
+		
+	  /************************************
+					HEADING
+	  ************************************/
+
+
+		/*HEADER*/
+		
+		header {
+			background-color: violet;
+			font-weight: 900;
+			text-align: center;
+			text-transform: uppercase;
+			text-decoration: none;
+			padding-top: 50px;
+			color: purple;
+		}
+		
+		h3 {
+			text-align: center;
+			color: skyblue;
+			border-bottom: 2px solid red;
+		}
+		
+		
+
+		/*NAVIGATION*/
+
+		nav {
+			background-color: skyblue;
+		}
+		
+		nav li {
+			list-style-type: none;
+			display: inline-block;
+		}
+
+
+
+
+
+	    /************************************
+					NAVIGATION
+	    ************************************/
+
+		
+
+
+
+		 /************************************
+					GALLERY
+	     ************************************/
+		
+
+
+
+        /************************************
+					FOOTER
+	    ************************************/
+
+
+			/*FOOTER*/
+			footer {
+				background-color: violet;
+				clear: both;
+				padding-top: 50px;
+				padding-bottom: 20px;
+				color: #fff;
+				text-align: center;
+			}
+
+
+
+	
+        /************************************
+				PORTIFOLIO
+	    ************************************/
+
+				#gallery {
+					margin: 0;
+					padding: 0;
+					list-style: none;
+				}
+				
+				#gallery li {
+					float: left;
+					width: 45%;
+					margin: 2.5%;
+					list-style-type: none;
+					background-color:
+					color:
+				}
+				
+			
+		/************************************
+				PAGE ABOUT
+	    ************************************/	
+		
